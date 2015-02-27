@@ -1,3 +1,3 @@
 whitestone.txt
 DinDon.txt
-Anton.txt - Minute
+anton.txt - Minute
